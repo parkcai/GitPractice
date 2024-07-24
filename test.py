@@ -1,4 +1,4 @@
 hello world
-ni bu hao
+ni hao
 wo ai ni
 add add add
